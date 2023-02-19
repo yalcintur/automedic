@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/static/js/main.b129fb6d.js",
+    "static/js/787.159ee502.chunk.js": "/static/js/787.159ee502.chunk.js",
+    "static/media/mrireport.png": "/static/media/mrireport.f8bbc645bd45150e3148.png",
+    "static/media/prescription.png": "/static/media/prescription.29154b7a444d9af1aeec.png",
+    "static/media/logomain.png": "/static/media/logomain.87daeea49c53d7ed6240.png",
+    "static/media/avstool.png": "/static/media/avstool.09d0d70053da8344389e.png",
+    "index.html": "/index.html",
+    "main.b129fb6d.js.map": "/static/js/main.b129fb6d.js.map",
+    "787.159ee502.chunk.js.map": "/static/js/787.159ee502.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b129fb6d.js"
+  ]
+}
