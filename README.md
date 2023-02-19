@@ -1,3 +1,6 @@
+AUTOMEDIC
+Expediting healthcare with large language models by reducing time spent on administrative tasks, granting medical workers the ability to use their valuable time to help patients.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
